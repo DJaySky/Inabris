@@ -1,4 +1,4 @@
-# Inabris - A personal worldbuilding and creative writing project by [DJaySky](https://github.com/DJaySky)
+# Inabris - A personal worldbuilding and creative writing project by [Aethari](https://github.com/Aethari)
 Welcome to the Inabris project, a place for me to build a complicated world and store my creative
 writings. This repo contains the development of this world, and will be updated with new writings
 frequently as I make more content. I made this project to bolster my writing skills, as well as
